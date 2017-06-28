@@ -1,7 +1,11 @@
-##非堵塞日志实时统计,效果很牛逼
+## 介绍:
+非堵塞日志实时统计,效果很牛逼
 
-Todo:push到websokock and highcharts
+## Todo:
+push到websokock and highcharts
 
+
+## 输出:
 ```
 ruifengyun@bj-log:/data/scribe/spider$ tailf spider-2014-11-06_00001|python ~/counter.py
 Use Ctrl + C to terminate the program
